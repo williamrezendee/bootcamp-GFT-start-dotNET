@@ -1,0 +1,15 @@
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\bin\Debug\net6.0\Demo2.exe
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\bin\Debug\net6.0\Demo2.deps.json
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\bin\Debug\net6.0\Demo2.runtimeconfig.json
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\bin\Debug\net6.0\Demo2.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\bin\Debug\net6.0\ref\Demo2.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\bin\Debug\net6.0\Demo2.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\obj\Debug\net6.0\Demo2.csproj.AssemblyReference.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\obj\Debug\net6.0\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\obj\Debug\net6.0\Demo2.AssemblyInfoInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\obj\Debug\net6.0\Demo2.AssemblyInfo.cs
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\obj\Debug\net6.0\Demo2.csproj.CoreCompileInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\obj\Debug\net6.0\Demo2.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\obj\Debug\net6.0\ref\Demo2.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\obj\Debug\net6.0\Demo2.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\TipoReferencia-TipoValor\Demo2\obj\Debug\net6.0\Demo2.genruntimeconfig.cache
