@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Abstraindo-Jogo-RPG-POO-CSharp/1.0.0": {
+        "runtime": {
+          "Abstraindo-Jogo-RPG-POO-CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstraindo-Jogo-RPG-POO-CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

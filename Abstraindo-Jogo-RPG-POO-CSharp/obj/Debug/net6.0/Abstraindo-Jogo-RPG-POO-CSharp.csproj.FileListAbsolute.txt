@@ -1,0 +1,15 @@
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\bin\Debug\net6.0\Abstraindo-Jogo-RPG-POO-CSharp.exe
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\bin\Debug\net6.0\Abstraindo-Jogo-RPG-POO-CSharp.deps.json
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\bin\Debug\net6.0\Abstraindo-Jogo-RPG-POO-CSharp.runtimeconfig.json
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\bin\Debug\net6.0\Abstraindo-Jogo-RPG-POO-CSharp.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\bin\Debug\net6.0\ref\Abstraindo-Jogo-RPG-POO-CSharp.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\bin\Debug\net6.0\Abstraindo-Jogo-RPG-POO-CSharp.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\obj\Debug\net6.0\Abstraindo-Jogo-RPG-POO-CSharp.csproj.AssemblyReference.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\obj\Debug\net6.0\Abstraindo-Jogo-RPG-POO-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\obj\Debug\net6.0\Abstraindo-Jogo-RPG-POO-CSharp.AssemblyInfoInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\obj\Debug\net6.0\Abstraindo-Jogo-RPG-POO-CSharp.AssemblyInfo.cs
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\obj\Debug\net6.0\Abstraindo-Jogo-RPG-POO-CSharp.csproj.CoreCompileInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\obj\Debug\net6.0\Abstraindo-Jogo-RPG-POO-CSharp.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\obj\Debug\net6.0\ref\Abstraindo-Jogo-RPG-POO-CSharp.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\obj\Debug\net6.0\Abstraindo-Jogo-RPG-POO-CSharp.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\Abstraindo-Jogo-RPG-POO-CSharp\obj\Debug\net6.0\Abstraindo-Jogo-RPG-POO-CSharp.genruntimeconfig.cache
