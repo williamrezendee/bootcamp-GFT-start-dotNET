@@ -1,0 +1,15 @@
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\bin\Debug\net6.0\Directory-And-DirectoryInfo.exe
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\bin\Debug\net6.0\Directory-And-DirectoryInfo.deps.json
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\bin\Debug\net6.0\Directory-And-DirectoryInfo.runtimeconfig.json
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\bin\Debug\net6.0\Directory-And-DirectoryInfo.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\bin\Debug\net6.0\ref\Directory-And-DirectoryInfo.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\bin\Debug\net6.0\Directory-And-DirectoryInfo.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\obj\Debug\net6.0\Directory-And-DirectoryInfo.csproj.AssemblyReference.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\obj\Debug\net6.0\Directory-And-DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\obj\Debug\net6.0\Directory-And-DirectoryInfo.AssemblyInfoInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\obj\Debug\net6.0\Directory-And-DirectoryInfo.AssemblyInfo.cs
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\obj\Debug\net6.0\Directory-And-DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\obj\Debug\net6.0\Directory-And-DirectoryInfo.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\obj\Debug\net6.0\ref\Directory-And-DirectoryInfo.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\obj\Debug\net6.0\Directory-And-DirectoryInfo.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Directory-And-DirectoryInfo\obj\Debug\net6.0\Directory-And-DirectoryInfo.genruntimeconfig.cache

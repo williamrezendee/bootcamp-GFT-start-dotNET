@@ -1,0 +1,15 @@
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.exe
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.deps.json
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.runtimeconfig.json
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\bin\Debug\net6.0\ref\FileSystemWatcher.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.AssemblyReference.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfoInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfo.cs
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\obj\Debug\net6.0\ref\FileSystemWatcher.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.genruntimeconfig.cache

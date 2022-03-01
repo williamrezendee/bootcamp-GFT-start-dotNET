@@ -1,0 +1,15 @@
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\bin\Debug\net6.0\DirectoryInfo-demo.exe
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\bin\Debug\net6.0\DirectoryInfo-demo.deps.json
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\bin\Debug\net6.0\DirectoryInfo-demo.runtimeconfig.json
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\bin\Debug\net6.0\DirectoryInfo-demo.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\bin\Debug\net6.0\ref\DirectoryInfo-demo.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\bin\Debug\net6.0\DirectoryInfo-demo.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\obj\Debug\net6.0\DirectoryInfo-demo.csproj.AssemblyReference.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\obj\Debug\net6.0\DirectoryInfo-demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\obj\Debug\net6.0\DirectoryInfo-demo.AssemblyInfoInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\obj\Debug\net6.0\DirectoryInfo-demo.AssemblyInfo.cs
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\obj\Debug\net6.0\DirectoryInfo-demo.csproj.CoreCompileInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\obj\Debug\net6.0\DirectoryInfo-demo.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\obj\Debug\net6.0\ref\DirectoryInfo-demo.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\obj\Debug\net6.0\DirectoryInfo-demo.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\DirectoryInfo-demo\obj\Debug\net6.0\DirectoryInfo-demo.genruntimeconfig.cache

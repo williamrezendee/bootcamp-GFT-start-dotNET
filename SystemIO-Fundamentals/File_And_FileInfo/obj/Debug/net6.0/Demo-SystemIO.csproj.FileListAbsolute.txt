@@ -1,0 +1,15 @@
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\bin\Debug\net6.0\Demo-SystemIO.exe
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\bin\Debug\net6.0\Demo-SystemIO.deps.json
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\bin\Debug\net6.0\Demo-SystemIO.runtimeconfig.json
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\bin\Debug\net6.0\Demo-SystemIO.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\bin\Debug\net6.0\ref\Demo-SystemIO.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\bin\Debug\net6.0\Demo-SystemIO.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\obj\Debug\net6.0\Demo-SystemIO.csproj.AssemblyReference.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\obj\Debug\net6.0\Demo-SystemIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\obj\Debug\net6.0\Demo-SystemIO.AssemblyInfoInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\obj\Debug\net6.0\Demo-SystemIO.AssemblyInfo.cs
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\obj\Debug\net6.0\Demo-SystemIO.csproj.CoreCompileInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\obj\Debug\net6.0\Demo-SystemIO.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\obj\Debug\net6.0\ref\Demo-SystemIO.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\obj\Debug\net6.0\Demo-SystemIO.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\SystemIO-Fundamentals\Demo-SystemIO\obj\Debug\net6.0\Demo-SystemIO.genruntimeconfig.cache
