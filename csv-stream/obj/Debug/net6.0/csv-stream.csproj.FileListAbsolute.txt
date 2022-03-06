@@ -1,0 +1,15 @@
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\bin\Debug\net6.0\csv-stream.exe
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\bin\Debug\net6.0\csv-stream.deps.json
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\bin\Debug\net6.0\csv-stream.runtimeconfig.json
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\bin\Debug\net6.0\csv-stream.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\bin\Debug\net6.0\ref\csv-stream.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\bin\Debug\net6.0\csv-stream.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\obj\Debug\net6.0\csv-stream.csproj.AssemblyReference.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\obj\Debug\net6.0\csv-stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\obj\Debug\net6.0\csv-stream.AssemblyInfoInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\obj\Debug\net6.0\csv-stream.AssemblyInfo.cs
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\obj\Debug\net6.0\csv-stream.csproj.CoreCompileInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\obj\Debug\net6.0\csv-stream.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\obj\Debug\net6.0\ref\csv-stream.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\obj\Debug\net6.0\csv-stream.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\csv-stream\obj\Debug\net6.0\csv-stream.genruntimeconfig.cache

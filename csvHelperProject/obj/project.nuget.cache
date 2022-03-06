@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aE03PM/MuEvpaK8gdn36beAF/pL8g8O8/Id94iiiZQR2TnSZwLcWRXEaJhD9q+JgOxymwSIJ8D7Dez4+sEgvYg==",
+  "success": true,
+  "projectFilePath": "C:\\_Dev\\bootcamp-GFT-start-dotNET\\csvHelperProject\\csvHelperProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\William\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
