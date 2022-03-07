@@ -2,7 +2,6 @@ C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\bin\Debug\net6.0\Cole
 C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
 C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
 C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\bin\Debug\net6.0\Colecoes.dll
-C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
 C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\bin\Debug\net6.0\Colecoes.pdb
 C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
 C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,4 @@ C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\obj\Debug\net6.0\Cole
 C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
 C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\obj\Debug\net6.0\Colecoes.pdb
 C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\obj\Debug\net6.0\refint\Colecoes.dll

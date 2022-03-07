@@ -6,21 +6,36 @@ namespace Colecoes
     {
         static void Main(string[] args)
         {
-            OperacoesArray op = new OperacoesArray();
+            OperacoesLista opLista = new OperacoesLista();
+            List<string> estados = new List<string>() {"SP", "MG", "SE", "BA"};
+            string[] estadosArray = new String[2] {"CE", "RJ"};
 
-            int[] array = new int[5] {6, 3, 8, 1, 9};
-            int[] arrayCopia = new int[10];
+            Console.WriteLine($"Quantidade de elementos na lista: {estados.Count}");
+            opLista.ImprimirListaString(estados);
 
-            int valorProcurado = 7;
-            bool todosMaiorQue = op.TodosMaiorQue(array, valorProcurado);
-            if (todosMaiorQue)
-            {
-                Console.WriteLine("Todos os valores são maiores que {0}", valorProcurado);
-            }
-            else
-            {
-                Console.WriteLine("Existe valores que não são maiores que {0}", valorProcurado);
-            }
+            // Console.WriteLine($"Removendo o elemento MG");
+            // estados.Remove("MG");
+
+            // estados.AddRange(estadosArray);
+            estados.Insert(1, "RJ");
+            opLista.ImprimirListaString(estados);
+            
+            
+            // OperacoesArray op = new OperacoesArray();
+
+            // int[] array = new int[5] {6, 3, 8, 1, 9};
+            // int[] arrayCopia = new int[10];
+
+            // int valorProcurado = 7;
+            // bool todosMaiorQue = op.TodosMaiorQue(array, valorProcurado);
+            // if (todosMaiorQue)
+            // {
+            //     Console.WriteLine("Todos os valores são maiores que {0}", valorProcurado);
+            // }
+            // else
+            // {
+            //     Console.WriteLine("Existe valores que não são maiores que {0}", valorProcurado);
+            // }
 
             // bool existe = op.Existe(array, valorProcurado);
             // if (existe)
