@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_Dev\\bootcamp-GFT-start-dotNET\\Colecoes-CSharp\\Colecoes\\Colecoes.csproj",
-      "projectName": "Colecoes",
-      "projectPath": "C:\\_Dev\\bootcamp-GFT-start-dotNET\\Colecoes-CSharp\\Colecoes\\Colecoes.csproj",
+      "projectUniqueName": "C:\\_Dev\\bootcamp-GFT-start-dotNET\\Tratamento-Excecoes\\Excecoes\\Excecoes.csproj",
+      "projectName": "Excecoes",
+      "projectPath": "C:\\_Dev\\bootcamp-GFT-start-dotNET\\Tratamento-Excecoes\\Excecoes\\Excecoes.csproj",
       "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-      "outputPath": "C:\\_Dev\\bootcamp-GFT-start-dotNET\\Colecoes-CSharp\\Colecoes\\obj\\",
+      "outputPath": "C:\\_Dev\\bootcamp-GFT-start-dotNET\\Tratamento-Excecoes\\Excecoes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",

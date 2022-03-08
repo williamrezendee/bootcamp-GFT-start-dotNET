@@ -12,4 +12,4 @@ C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\obj\Debug\net6.0\Cole
 C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
 C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\obj\Debug\net6.0\Colecoes.pdb
 C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
-C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\obj\Debug\net6.0\refint\Colecoes.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\Colecoes-CSharp\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll

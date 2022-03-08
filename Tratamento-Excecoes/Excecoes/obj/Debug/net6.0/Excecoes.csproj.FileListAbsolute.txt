@@ -1,0 +1,15 @@
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\bin\Debug\net6.0\Excecoes.exe
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\bin\Debug\net6.0\Excecoes.deps.json
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\bin\Debug\net6.0\Excecoes.runtimeconfig.json
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\bin\Debug\net6.0\Excecoes.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\bin\Debug\net6.0\ref\Excecoes.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\bin\Debug\net6.0\Excecoes.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\obj\Debug\net6.0\Excecoes.csproj.AssemblyReference.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\obj\Debug\net6.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\obj\Debug\net6.0\Excecoes.AssemblyInfoInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\obj\Debug\net6.0\Excecoes.AssemblyInfo.cs
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\obj\Debug\net6.0\Excecoes.csproj.CoreCompileInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\obj\Debug\net6.0\Excecoes.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\obj\Debug\net6.0\ref\Excecoes.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\obj\Debug\net6.0\Excecoes.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\Tratamento-Excecoes\Excecoes\obj\Debug\net6.0\Excecoes.genruntimeconfig.cache

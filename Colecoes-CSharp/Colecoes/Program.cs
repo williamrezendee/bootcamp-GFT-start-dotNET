@@ -6,19 +6,88 @@ namespace Colecoes
     {
         static void Main(string[] args)
         {
-            OperacoesLista opLista = new OperacoesLista();
-            List<string> estados = new List<string>() {"SP", "MG", "SE", "BA"};
-            string[] estadosArray = new String[2] {"CE", "RJ"};
+            int[] arrayNumeros = new int[] {100,1,4,0,8,15,19};
+            var minimo = arrayNumeros.Min();
+            var maximo = arrayNumeros.Max();
+            var medio = arrayNumeros.Average();
 
-            Console.WriteLine($"Quantidade de elementos na lista: {estados.Count}");
-            opLista.ImprimirListaString(estados);
+            System.Console.WriteLine($"Mínino: {minimo}");
+            System.Console.WriteLine($"Máximo: {maximo}");
+            System.Console.WriteLine($"Médio: {medio}");
+
+            // var numerosPares = 
+            //     from num in arrayNumeros
+            //     where num % 2 == 0
+            //     orderby num
+            //     select num;
+            
+            // var numerosParesMetodo = arrayNumeros.Where(x => x % 2 == 0).OrderBy(x => x).ToList();
+            // System.Console.WriteLine("Números pares query: " + string.Join(", ", numerosPares));
+            // System.Console.WriteLine("Números pares método: " + string.Join(", ", numerosParesMetodo));
+
+            // Dictionary<string, string> estados = new Dictionary<string, string>();
+            // estados.Add("SP", "São Paulo");
+            // estados.Add("SE", "Sergipe");
+            // estados.Add("BA", "Bahia");
+            // foreach (var item in estados)
+            // {
+            //     System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+            // }
+            // string valorProcurado = "BA";
+            // if (estados.TryGetValue(valorProcurado, out string? estadoEncontrado))
+            // {
+            //     System.Console.WriteLine(estadoEncontrado);
+            // }
+            // else
+            // {
+            //     System.Console.WriteLine($"Chave {valorProcurado} não existe no dicionário.");
+            // }
+
+            // System.Console.WriteLine("Valor Original:");
+            // System.Console.WriteLine(estados[valorProcurado]);
+
+            // estados[valorProcurado] = "BA - Teste";
+
+            // Stack<string> pilhaLivros = new Stack<string>();
+            // pilhaLivros.Push(".NET");
+            // pilhaLivros.Push("DDD");
+            // pilhaLivros.Push("Código Limpo");
+
+            // System.Console.WriteLine($"Livros para a leitura: {pilhaLivros.Count}");
+            // while (pilhaLivros.Count > 0)
+            // {
+            //     System.Console.WriteLine($"Próximo livro para leitura: {pilhaLivros.Peek()}");
+            //     System.Console.WriteLine($"{pilhaLivros.Pop()} lido com sucesso!");
+            // }
+            // System.Console.WriteLine($"Livros para a leitura: {pilhaLivros.Count}");
+
+            // Queue<string> fila = new Queue<string>();
+            // fila.Enqueue("Leonardo");
+            // fila.Enqueue("William");
+            // fila.Enqueue("Bruna");
+
+            // System.Console.WriteLine($"Pessoas na fila: {fila.Count}");
+            // while (fila.Count > 0)
+            // {
+            //     System.Console.WriteLine($"A vez de: {fila.Peek()}");
+            //     System.Console.WriteLine($"{fila.Dequeue()} atendida.");
+            // }
+            // System.Console.WriteLine($"Pessoas na fila: {fila.Count}");
+            
+            
+            // OperacoesLista opLista = new OperacoesLista();
+            // List<string> estados = new List<string>() {"SP", "MG", "SE", "BA"};
+            // string[] estadosArray = new String[2] {"CE", "RJ"};
+
+            // Console.WriteLine($"Quantidade de elementos na lista: {estados.Count}");
+            // opLista.ImprimirListaString(estados);
 
             // Console.WriteLine($"Removendo o elemento MG");
             // estados.Remove("MG");
 
             // estados.AddRange(estadosArray);
-            estados.Insert(1, "RJ");
-            opLista.ImprimirListaString(estados);
+            // estados.Insert(1, "RJ");
+            // opLista.ImprimirListaString(estados);
             
             
             // OperacoesArray op = new OperacoesArray();
