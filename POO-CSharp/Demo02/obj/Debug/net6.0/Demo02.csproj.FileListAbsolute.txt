@@ -1,0 +1,15 @@
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\bin\Debug\net6.0\Demo02.exe
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\bin\Debug\net6.0\Demo02.deps.json
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\bin\Debug\net6.0\Demo02.runtimeconfig.json
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\bin\Debug\net6.0\Demo02.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\bin\Debug\net6.0\ref\Demo02.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\bin\Debug\net6.0\Demo02.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\obj\Debug\net6.0\Demo02.csproj.AssemblyReference.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\obj\Debug\net6.0\Demo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\obj\Debug\net6.0\Demo02.AssemblyInfoInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\obj\Debug\net6.0\Demo02.AssemblyInfo.cs
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\obj\Debug\net6.0\Demo02.csproj.CoreCompileInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\obj\Debug\net6.0\Demo02.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\obj\Debug\net6.0\ref\Demo02.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\obj\Debug\net6.0\Demo02.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\POO-CSharp\Demo02\obj\Debug\net6.0\Demo02.genruntimeconfig.cache
