@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContagemDeCelulas", "ContagemDeCelulas\ContagemDeCelulas.csproj", "{BFA30269-555F-44FC-B071-64D18D962CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContagemDeCedulas", "ContagemDeCedulas\ContagemDeCedulas.csproj", "{26569907-67AA-4CAD-9CF2-60B88819897C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulo", "Triangulo\Triangulo.csproj", "{C339CF14-747B-42CB-BFB4-1B6E18D8752F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA30269-555F-44FC-B071-64D18D962CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA30269-555F-44FC-B071-64D18D962CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA30269-555F-44FC-B071-64D18D962CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA30269-555F-44FC-B071-64D18D962CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26569907-67AA-4CAD-9CF2-60B88819897C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26569907-67AA-4CAD-9CF2-60B88819897C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26569907-67AA-4CAD-9CF2-60B88819897C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26569907-67AA-4CAD-9CF2-60B88819897C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C339CF14-747B-42CB-BFB4-1B6E18D8752F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C339CF14-747B-42CB-BFB4-1B6E18D8752F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C339CF14-747B-42CB-BFB4-1B6E18D8752F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C339CF14-747B-42CB-BFB4-1B6E18D8752F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

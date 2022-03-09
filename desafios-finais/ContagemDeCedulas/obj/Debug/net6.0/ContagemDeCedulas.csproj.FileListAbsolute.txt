@@ -1,0 +1,15 @@
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\bin\Debug\net6.0\ContagemDeCedulas.exe
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\bin\Debug\net6.0\ContagemDeCedulas.deps.json
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\bin\Debug\net6.0\ContagemDeCedulas.runtimeconfig.json
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\bin\Debug\net6.0\ContagemDeCedulas.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\bin\Debug\net6.0\ref\ContagemDeCedulas.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\bin\Debug\net6.0\ContagemDeCedulas.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\obj\Debug\net6.0\ContagemDeCedulas.csproj.AssemblyReference.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\obj\Debug\net6.0\ContagemDeCedulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\obj\Debug\net6.0\ContagemDeCedulas.AssemblyInfoInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\obj\Debug\net6.0\ContagemDeCedulas.AssemblyInfo.cs
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\obj\Debug\net6.0\ContagemDeCedulas.csproj.CoreCompileInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\obj\Debug\net6.0\ContagemDeCedulas.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\obj\Debug\net6.0\ref\ContagemDeCedulas.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\obj\Debug\net6.0\ContagemDeCedulas.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ContagemDeCedulas\obj\Debug\net6.0\ContagemDeCedulas.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\bin\Debug\net6.0\Triangulo.exe
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\bin\Debug\net6.0\Triangulo.deps.json
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\bin\Debug\net6.0\Triangulo.runtimeconfig.json
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\bin\Debug\net6.0\Triangulo.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\bin\Debug\net6.0\ref\Triangulo.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\bin\Debug\net6.0\Triangulo.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\obj\Debug\net6.0\Triangulo.csproj.AssemblyReference.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\obj\Debug\net6.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfoInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfo.cs
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\obj\Debug\net6.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\obj\Debug\net6.0\Triangulo.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\obj\Debug\net6.0\ref\Triangulo.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\obj\Debug\net6.0\Triangulo.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\Triangulo\obj\Debug\net6.0\Triangulo.genruntimeconfig.cache
