@@ -8,7 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\William\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "C:\\_Dev\\bootcamp-GFT-start-dotNET\\desafios-finais\\ComprasNoSupermercado\\ComprasNoSupermercado.csproj",
       "projectName": "ComprasNoSupermercado",
       "projectPath": "C:\\_Dev\\bootcamp-GFT-start-dotNET\\desafios-finais\\ComprasNoSupermercado\\ComprasNoSupermercado.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
       "outputPath": "C:\\_Dev\\bootcamp-GFT-start-dotNET\\desafios-finais\\ComprasNoSupermercado\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

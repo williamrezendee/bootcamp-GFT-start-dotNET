@@ -1,0 +1,15 @@
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\obj\Debug\net6.0\ComprasNoSupermercado.csproj.AssemblyReference.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\obj\Debug\net6.0\ComprasNoSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\obj\Debug\net6.0\ComprasNoSupermercado.AssemblyInfoInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\obj\Debug\net6.0\ComprasNoSupermercado.AssemblyInfo.cs
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\obj\Debug\net6.0\ComprasNoSupermercado.csproj.CoreCompileInputs.cache
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\bin\Debug\net6.0\ComprasNoSupermercado.exe
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\bin\Debug\net6.0\ComprasNoSupermercado.deps.json
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\bin\Debug\net6.0\ComprasNoSupermercado.runtimeconfig.json
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\bin\Debug\net6.0\ComprasNoSupermercado.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\bin\Debug\net6.0\ref\ComprasNoSupermercado.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\bin\Debug\net6.0\ComprasNoSupermercado.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\obj\Debug\net6.0\ComprasNoSupermercado.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\obj\Debug\net6.0\ref\ComprasNoSupermercado.dll
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\obj\Debug\net6.0\ComprasNoSupermercado.pdb
+C:\_Dev\bootcamp-GFT-start-dotNET\desafios-finais\ComprasNoSupermercado\obj\Debug\net6.0\ComprasNoSupermercado.genruntimeconfig.cache
